@@ -1,2 +1,4 @@
 # Rock-Paper-Scissors
-Homework Assignment 7 - Rock, Paper, Scissors
+Rock, Paper, Scissors
+
+Basic RPS game built with HTML, CSS, and Javascript.
